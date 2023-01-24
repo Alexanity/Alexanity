@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/alexander (alex) kazakov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexander (alex) kazakov" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/alexander (alex) kazakov" target="https://www.linkedin.com/in/alexander-kazakov-222265257"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexander (alex) kazakov" height="30" width="40" /></a>
 <a href="https://instagram.com/alexandyr__kazakov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alexandyr__kazakov" height="30" width="40" /></a>
 </p>
 
