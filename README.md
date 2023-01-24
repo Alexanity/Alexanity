@@ -1,6 +1,5 @@
 <h1 align="center">Well hello there 👋, I'm Alexander Kazakov</h1>
 <h3 align="center">A tryhard Software Engineer with an interest in hardware.</h3>
-<img align="right" alt="Coding" width="400" src="https://tenor.com/view/cat-computer-typing-fast-gif-5368357">
 
 - 🔭 I’m currently working on **stuyding new things.**
 
