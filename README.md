@@ -1,6 +1,6 @@
-<h1 align="center">Well hello there 👋, I'm Alexander Kazakov</h1>
+<h1 align="center">Well hello there 👋, I'm Alex</h1>
 <h3 align="center">A tryhard Software Engineer with an interest in hardware.</h3>
-🔭 I’m currently studying<br>🌱 I’m currently learning: C#, Computer Graphics, Unity and Game Design<br>👨‍💻 All of my projects are available at: https://github.com/Alexanity<br>📫 How to reach me: aleksandyrkazakov6@gmail.com<br>⚡ Fun quote: "It's not about the desti-something it's about the whatever"
+🔭 I’m currently studying<br>🌱 I’m currently learning: C#, Computer Graphics, Unity and Game Design<br>👨‍💻 All of my projects are available at: ...here<br>📫 How to reach me: aleksandyrkazakov6@gmail.com & socials<br>⚡ Fun quote: "Neat"
 
 
 ## 🌐 Socials:
